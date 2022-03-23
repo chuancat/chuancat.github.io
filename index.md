@@ -1,12 +1,12 @@
 ## Welcome 
-
+### Nice to meet you!
 My name is Xu Chuan, you can call me Cora. 
 I am an IBI1 student at ZJU-UoE institute, Zhejiang University.
 This is my pubic github repository.
 
 In fact I'm not good at coding, so the webpage cost me a lot of time. But I still think it interesting and attractive.
 
-### Anyway, nice to see you and welcome to visit my webpage and make friends with me!  :)
+### welcome to visit my webpage and make friends with me!  :)
 
 ### If you want to contact to me, my email address is chuan.21@intl.zju.edu.cn
 
